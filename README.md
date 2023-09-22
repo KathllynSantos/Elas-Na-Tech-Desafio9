@@ -1,5 +1,21 @@
 <div align="center"> <h1> 👩🏾‍💻Nono Desafio do Elas na Tech</h1> </div>
 
+Neste desafio, explorei o conceito de um framework e trabalhei com o Bootstrap, um framework de desenvolvimento front-end. Um framework é um conjunto de ferramentas e bibliotecas que fornecem uma estrutura pré-construída para simplificar o desenvolvimento de aplicações. O Bootstrap, em particular, é um framework amplamente utilizado que se baseia em HTML, CSS e JavaScript.
+
+No contexto do desafio, nosso objetivo era criar um carrossel de imagens e realizar algumas customizações nele. Aqui estão os passos que segui:
+
+Criar um botão "Galeria": Iniciei criando um botão na página com a etiqueta "Galeria".
+
+Abrir uma nova guia com o carrossel de imagens: Quando o botão "Galeria" é clicado, abre a página e exibindo o carrossel de imagens.
+
+Alterar o ícone da página do carrossel: Para personalizar ainda mais a página do carrossel, substituí o ícone padrão pelo ícone desejado. 
+
+Ajustar o carrossel:
+
+Remover espaços laterais: Para remover os espaços em branco à esquerda e à direita do carrossel, você pode usar CSS para definir a largura do carrossel para 100% da largura da tela.
+Imagens ocupando 100% da altura da página: Usando CSS, você pode configurar as imagens do carrossel para ocupar 100% da altura da página, garantindo que preencham todo o espaço vertical disponível.
+Manter o carrossel verticalmente alinhado ao centro: Para garantir que o carrossel permaneça alinhado verticalmente ao centro, você pode usar técnicas de CSS, como flexbox ou alinhamento vertical, dependendo da estrutura HTML e do design da página.
+
 
 
 <h2> 🌐 Resultado </h2> 
